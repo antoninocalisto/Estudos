@@ -8,7 +8,7 @@ import { RouterOutlet } from '@angular/router';
   // styleUrls: ['./app.component.scss']
   standalone: true,
   imports: [CommonModule, RouterOutlet],
-  template: `
+  template: ` 
     <h1> Curso angular </h1>
   `
 })
